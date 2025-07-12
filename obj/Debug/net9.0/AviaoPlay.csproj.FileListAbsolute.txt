@@ -1,0 +1,15 @@
+C:\Users\Pichau\OneDrive\Desktop\Faculdade e Cursos\Códigos\AviaoPlay\bin\Debug\net9.0\AviaoPlay.exe
+C:\Users\Pichau\OneDrive\Desktop\Faculdade e Cursos\Códigos\AviaoPlay\bin\Debug\net9.0\AviaoPlay.deps.json
+C:\Users\Pichau\OneDrive\Desktop\Faculdade e Cursos\Códigos\AviaoPlay\bin\Debug\net9.0\AviaoPlay.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Desktop\Faculdade e Cursos\Códigos\AviaoPlay\bin\Debug\net9.0\AviaoPlay.dll
+C:\Users\Pichau\OneDrive\Desktop\Faculdade e Cursos\Códigos\AviaoPlay\bin\Debug\net9.0\AviaoPlay.pdb
+C:\Users\Pichau\OneDrive\Desktop\Faculdade e Cursos\Códigos\AviaoPlay\obj\Debug\net9.0\AviaoPlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Desktop\Faculdade e Cursos\Códigos\AviaoPlay\obj\Debug\net9.0\AviaoPlay.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\Faculdade e Cursos\Códigos\AviaoPlay\obj\Debug\net9.0\AviaoPlay.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Desktop\Faculdade e Cursos\Códigos\AviaoPlay\obj\Debug\net9.0\AviaoPlay.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\Faculdade e Cursos\Códigos\AviaoPlay\obj\Debug\net9.0\AviaoPlay.sourcelink.json
+C:\Users\Pichau\OneDrive\Desktop\Faculdade e Cursos\Códigos\AviaoPlay\obj\Debug\net9.0\AviaoPlay.dll
+C:\Users\Pichau\OneDrive\Desktop\Faculdade e Cursos\Códigos\AviaoPlay\obj\Debug\net9.0\refint\AviaoPlay.dll
+C:\Users\Pichau\OneDrive\Desktop\Faculdade e Cursos\Códigos\AviaoPlay\obj\Debug\net9.0\AviaoPlay.pdb
+C:\Users\Pichau\OneDrive\Desktop\Faculdade e Cursos\Códigos\AviaoPlay\obj\Debug\net9.0\AviaoPlay.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Desktop\Faculdade e Cursos\Códigos\AviaoPlay\obj\Debug\net9.0\ref\AviaoPlay.dll
