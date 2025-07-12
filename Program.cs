@@ -82,7 +82,12 @@ class Program
                         Console.SetCursorPosition(i, 0);
                         Console.Write("=");
                         Console.SetCursorPosition(i, screenHeight - 1);
-                        Console.Write("=");
+                        Console.OutputEncoding = System.Text.Encoding.UTF8;
+                        Console.WriteLine("░░░░░░░░░░█");
+                        Console.WriteLine("░░░░░░░░▄▄█▄▄");
+                        Console.WriteLine("░░░░▀▀▀██▀▀▀██▀▀▀");
+                        Console.WriteLine("▄▄▄▄▄▄▄███████▄▄▄▄▄▄▄");
+                        Console.WriteLine("░░█▄█░░▀██▄██▀░░█▄█");
                     }
                     Thread.Sleep(50);
                     break;
