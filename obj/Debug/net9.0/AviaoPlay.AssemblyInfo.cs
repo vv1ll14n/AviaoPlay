@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AviaoPlay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+520e5c7d46382f18f05ff667a89a6a51549b4a8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9140cb64ffea66d89932b548f1f1a6b1d2f2973d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AviaoPlay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AviaoPlay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
